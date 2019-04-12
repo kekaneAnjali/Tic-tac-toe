@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    margin-top:10px;
+    background-color:rgb(47, 255, 47);
+    text-align: center;
+}
+.col{
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    background-color: beige;
+margin-top:2px;
+padding:20px;
+font-size:40px;
+padding-top:30px; 
+}
+button{
+    padding: 20px;
+    font-size:25px;
+    margin-top:20px;
+}

@@ -1,0 +1,2 @@
+computer="O";
+Player="X";
